@@ -154,7 +154,7 @@
 					<key>Comment</key>
 					<string>Fix AsRock Z390 BIOS DSDT Device(RTC) bug</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>
 					oAqTU1RBUwE=
@@ -702,70 +702,20 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
-		<key>MLB</key>
-		<string>C02813303GUJP4FA8</string>
-		<key>ROM</key>
-		<data>
-		aQoO6J+x
-		</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
-		<key>BiosReleaseDate</key>
-		<string>08/30/2019</string>
-		<key>BiosVendor</key>
-		<string>Apple Inc.</string>
-		<key>BiosVersion</key>
-		<string>IM191.88Z.F000.B00.1908302134</string>
-		<key>Board-ID</key>
-		<string>Mac-AA95B1DDAB278B95</string>
-		<key>BoardManufacturer</key>
-		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string>C02908130CDLNV9A8</string>
-		<key>BoardType</key>
-		<integer>10</integer>
-		<key>BoardVersion</key>
-		<string>1.0</string>
-		<key>ChassisAssetTag</key>
-		<string>iMac-Aluminum</string>
-		<key>ChassisManufacturer</key>
-		<string>Apple Inc.</string>
-		<key>ChassisType</key>
-		<string>0x09</string>
-		<key>EfiVersion</key>
-		<string>1037.0.73.0.0</string>
-		<key>Family</key>
-		<string>iMac</string>
-		<key>FirmwareFeatures</key>
-		<string>0xFD8FF576</string>
-		<key>FirmwareFeaturesMask</key>
-		<string>0xFFDFFF7F</string>
-		<key>LocationInChassis</key>
-		<string>Part Component</string>
-		<key>Manufacturer</key>
-		<string>Apple Inc.</string>
 		<key>Mobile</key>
-		<false/>
-		<key>PlatformFeature</key>
-		<string>0x22</string>
-		<key>ProductName</key>
-		<string>iMac19,1</string>
+		<true/>
 		<key>ProductName-Comment</key>
 		<string>Using Haswell MacBookAir6,2 until Clover has support for KabyLake identifiers</string>
-		<key>SerialNumber</key>
-		<string>C02Y9AZ5JV3Q</string>
-		<key>SmUUID</key>
-		<string>3860536A-2327-4B9B-9901-437B196E6FF2</string>
-		<key>Version</key>
-		<string>1.0</string>
+		<key>Trust</key>
+		<false/>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>#BacklightLevel</key>
 		<integer>0</integer>
-		<key>CustomUUID</key>
-		<string>99191730-4877-4664-B5BD-751B48B07354</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
