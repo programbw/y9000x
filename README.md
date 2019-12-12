@@ -1,7 +1,7 @@
 # y9000x(11.29) 本人较懒，随缘更新  
 ## 2019.11.29       精简文件，添加雷电接口补丁（[@WangRicky](https://github.com/WangRicky) 项目内提供），屏蔽pm981a 
 ## 外放,外接显示器依旧无解，据说type-c扩展坞以太网卡工作正常，也有人说不行，自行测试  
-
+# [可以去投个票,让官方去解决下外放以及雷电的事情](https://club.lenovo.com.cn/forum.php?mod=viewthread&tid=5672284)
 # 注意事项  
 1.我的蓝牙只在机型为15,1的时候正常,其他机型不行.在此提醒  
 2.长时间睡眠无法唤醒问题 ,[按照链接方法2关闭深度睡眠](http://bbs.pcbeta.com/viewthread-1834323-1-1.html),  
