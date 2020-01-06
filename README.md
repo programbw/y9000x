@@ -1,4 +1,4 @@
-# 2020 1/6  c口转接HDMI经过（[@WangRicky](https://github.com/WangRicky)测试，14，1机型可以正常使用，雷电未测试
+# 2020.1.6  c口转接HDMI经过（[@WangRicky](https://github.com/WangRicky)测试，14，1机型可以正常使用，雷电未测试
 
 # y9000x(11.29) 本人较懒，随缘更新  
 ## 2019.11.29       精简文件，添加雷电接口补丁（[@WangRicky](https://github.com/WangRicky) 项目内提供），屏蔽pm981a 
